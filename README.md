@@ -8,7 +8,8 @@
 - Richard Alves dos Santos
 - Silvio Rodrigues Correia
 - Vinicius Evangelista Ferreira
-   Objetivo 
+
+    Objetivo 
 Sistemas de informação frequentemente devem ser integrados a outros sistemas para atender necessidades de negócios. A dinâmica das mudanças e inovações nos negócios frequentes 
 tem gerado uma demanda na manutenção e integração de sistemas que os departamentos de TI têm se mostrado incapazes de atender. Diante deste cenário, a Computação Orientada a 
 Serviços fornece um modelo que pode auxiliar a minimizar os problemas de integração, além de proporcionar o reuso e o gerenciamento de componentes de software com o 
